@@ -21,3 +21,7 @@ Request Body:
  URL : /nace-api/{orderId}/get
 
 Order id in path variable format
+
+3. PUT - processNaceCSVFile
+ URL - /nace-api/csv/upload
+ Parameters : CSV File
